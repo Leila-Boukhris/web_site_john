@@ -4,20 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, Calendar, Trophy, Target, Heart, Star, Clock, User } from "lucide-react";
 import { useScrollRestoration } from "@/hooks/useScrollRestoration";
-import pianoPlaying from "@/assets/piano-playing.jpg";
-import codingTech from "@/assets/coding-tech.jpg";
-import golfSwing from "@/assets/golf-swing.jpg";
 // New activity images
-import languagesImage from "@/assets/languages.jpg";
-import schoolProgramImage from "@/assets/school-program.jpg";
-import chessImage from "@/assets/chess.jpg";
-import tennisImage from "@/assets/tennis.jpg";
-import paddleTennisImage from "@/assets/paddle-tennis.jpg";
-import horseRidingImage from "@/assets/horse-riding.jpg";
-import motorsportImage from "@/assets/motorsport.jpg";
-import artDrawingImage from "@/assets/art-drawing.jpg";
-import emotionalIntelligenceImage from "@/assets/emotional-intelligence.jpg";
-import petsAnimalsImage from "@/assets/pets-animals.jpg";
 
 import piano1 from "@/assets/tree_imgs/piano1.png";
 import piano2 from "@/assets/tree_imgs/piano2.png";
