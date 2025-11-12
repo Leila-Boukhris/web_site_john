@@ -4,7 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, Calendar, Trophy, Target, Heart, Star, Clock, User } from "lucide-react";
 import { useScrollRestoration } from "@/hooks/useScrollRestoration";
-import surfingAction from "@/assets/surfing-action.jpg";
 import pianoPlaying from "@/assets/piano-playing.jpg";
 import codingTech from "@/assets/coding-tech.jpg";
 import golfSwing from "@/assets/golf-swing.jpg";
